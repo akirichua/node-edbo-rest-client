@@ -1,0 +1,16 @@
+{
+  "name": "edbotestrest",
+  "version": "0.0.1",
+  "description": "EDBO Test REST on node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "akirich",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-rest-client": "^3.1.0",
+    "serialize-javascript": "^1.5.0"
+  }
+}
