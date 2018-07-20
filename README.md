@@ -4,11 +4,11 @@
 
 # Встановлення
 
-Розпаковуємо, в папці виконуємо `npm install`. У файлі `login.js` обов'язково замінити api key!
+Розпаковуємо, в папці виконуємо `npm install`. У файлі `altlogin.js` обов'язково замінити api key! Створіть папку `data`.
 
 # Логін
 
-Логін відбувається командою `node login.js -l prizvysche.imya -p parol`. В логіні додавати @edbo.gov.ua не потрібно.
+Логін відбувається командою `node altlogin.js -l prizvysche.imya -p parol`. В логіні додавати @edbo.gov.ua не потрібно.
 
 # Запит
 
