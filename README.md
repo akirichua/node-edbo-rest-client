@@ -9,11 +9,11 @@
 
 # Логін
 
-Логін відбувається командою `node altlogin.js -l prizvysche.imya -p parol`. В логіні додавати @edbo.gov.ua не потрібно.
+Логін відбувається командою `node altlogin.js -l prizvysche.imya -p parol`. В логіні додавати домен не потрібно.
 
 # Запит
 
-Запит треба виконувати командою `node index.js -d {jsondata} -u http://edbo.gov.ua/data...`
+Запит треба виконувати командою `node index.js -d {jsondata} -u http://****.gov.ua/data...`
 
 # Відповідь
 
